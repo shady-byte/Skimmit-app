@@ -28,4 +28,8 @@ Screenshots from the application
     <td><img src="https://user-images.githubusercontent.com/76439620/126823749-2f94a492-9fa7-4638-a152-ba464606925e.jpg" width=220 height=450></td>
     <td><img src="https://user-images.githubusercontent.com/76439620/126823776-f3e4c658-9175-4f12-ad09-1fac99f40fa1.jpg" width=220 height=450></td>
   </tr>
+  
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/76439620/126824393-e736b753-7794-43cb-ae29-302aa1ea1b9f.jpg" width=220 height=450></td>
+  </tr>
  </table>
