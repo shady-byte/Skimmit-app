@@ -31,6 +31,6 @@ Screenshots from the application
   
   <tr>
     <td><img src="https://user-images.githubusercontent.com/76439620/126824393-e736b753-7794-43cb-ae29-302aa1ea1b9f.jpg" width=220 height=450></td>
-    <td><img src="https://user-images.githubusercontent.com/76439620/126824393-e736b753-7794-43cb-ae29-302aa1ea1b9f.jpg" width=220 height=450></td>
+    <td><img src="https://user-images.githubusercontent.com/76439620/126900209-e4868497-b6ab-4d11-b9ac-9589d8c3249e.jpg" width=220 height=450></td>
   </tr>
  </table>
