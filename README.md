@@ -1,6 +1,6 @@
 Packages used
--percent_indicator
--string_validator
+-percent_indicator <br>
+-string_validator <br>
 -flutter_spinkit
 -flutter_barcode_scanner
 -shared_preferences
