@@ -1,3 +1,16 @@
+Packages used
+-percent_indicator
+-string_validator
+-flutter_spinkit
+-flutter_barcode_scanner
+-shared_preferences
+-flutter_secure_storage
+-fluttertoast
+-connectivity
+-http
+-mobx:
+-flutter_mobx:
+
 Screenshots from the application 
   
 <table>
