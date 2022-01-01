@@ -1,15 +1,15 @@
 Packages used
 -percent_indicator <br>
 -string_validator <br>
--flutter_spinkit
--flutter_barcode_scanner
--shared_preferences
--flutter_secure_storage
--fluttertoast
--connectivity
--http
--mobx:
--flutter_mobx:
+-flutter_spinkit <br>
+-flutter_barcode_scanner <br>
+-shared_preferences <br>
+-flutter_secure_storage <br>
+-fluttertoast <br>
+-connectivity <br>
+-http <br>
+-mobx <br>
+-flutter_mobx <br>
 
 Screenshots from the application 
   
