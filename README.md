@@ -1,4 +1,4 @@
-<b>Packages used<b> <br>
+<b>Packages used</b> <br>
 -percent_indicator <br>
 -string_validator <br>
 -flutter_spinkit <br>
@@ -11,7 +11,7 @@
 -mobx <br>
 -flutter_mobx <br>
 
-Screenshots from the application 
+<b>Screenshots from the application</b> 
   
 <table>
   <tr>
