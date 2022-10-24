@@ -1,5 +1,9 @@
 # Skimmit App
-an app that displays calories of packaged food and the components of it and it calculates the calories that you need daily of packaged food, it helps you to track your calories to keep fit. its process is that you start by creating an account and then gives it some data like your height, weight, age and gender and it calculates your BMI and record every product you eat and deduct its calories from your daily calories to keep fit.
+an app that displays calories of packaged food and the components of it and it calculates the calories that you need daily of packaged food, it helps you to track your calories to keep fit. its process is that you start by creating an account and then gives it some data like your height, weight, age and gender and it calculates your BMI and record every product you eat and deduct its calories from your daily calories to keep fit.<br>
+
+<b>My Role</b> <br>
+I was responsible of all the Frontend work and the app logic and idea. I did the design and implemented it using Flutter and Dart.I connected the app to Restful Apis to fetch the data and handled how to be presented on screen and handled internet connection.
+
 
 
 <b>Packages used</b> <br>
